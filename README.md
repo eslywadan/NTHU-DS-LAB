@@ -37,3 +37,12 @@ To build docker image, run `make dc.image`.
 ## CI/CD
 
 The CI/CD runs in [Github Actions](https://github.com/features/actions). See [workflow spec](.github/workflows/main.yml) for more details.
+
+
+# Distributed System Design - Lab Redis
+
+### Team 6 -  梁耕銘(110062704)周崑水(108005514)劉新正(109065851)
+
+[Git repo](https://github.com/eslywadan/NTHU-DS-LAB.git) branch:Lab-Redis
+***Testing output***
+![](https://i.imgur.com/C8mzn8T.png)
